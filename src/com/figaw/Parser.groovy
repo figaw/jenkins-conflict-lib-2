@@ -1,6 +1,6 @@
 package com.figaw
 
-class Helper {
+class Parser {
 
     static def someMethod() {
         return "some library 2 value"
