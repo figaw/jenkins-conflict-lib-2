@@ -2,7 +2,7 @@ package com.figaw
 
 class Helper {
 
-    def someMethod() {
+    static def someMethod() {
         return "some library 2 value"
     }
 
